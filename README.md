@@ -1,4 +1,3 @@
-Envio Automático de Mensagens via WhatsApp
 Este projeto é uma aplicação desktop desenvolvida em Python com PyQt5 para envio automático de mensagens via WhatsApp, utilizando a biblioteca pywhatkit. 
 O objetivo é facilitar o envio em massa de mensagens personalizadas para uma lista de contatos, otimizando processos de comunicação para negócios, 
 equipes de vendas, eventos ou campanhas de marketing.
